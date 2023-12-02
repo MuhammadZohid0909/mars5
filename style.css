@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    
+}
+
+a{
+    color: #A6A8AD;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+
+    text-decoration: none;
+}
+
+.btn button{
+    width: 95px;
+    height: 35px;
+    color: #121214;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.4px; /* 115% */
+    border-radius: 32px;
+    border: 1px solid #FFF;
+    background: #FFF;
+}
+
+.list{
+    color: #A6A8AD;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+}
+
+.box{
+    background-image: url(./img/IMAGE\ \(1\).svg);
+    max-width: 1519px;
+    height: 744px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.title1{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px; /* 100% */
+    letter-spacing: 1.08px;
+}
+
+.title2{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 120% */
+}
+
+
+.btn2 button{
+    width: 125px;
+    height: 56px;
+    border-radius: 8px;
+    background-color: #03F;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    border: none;
+}
+
+.title3{
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 128.571% */
+}
+
+.title4{
+    color: #A6A8AD;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px; /* 116.667% */
+    letter-spacing: 0.12px;
+    text-transform: uppercase;
+}
+
+.btn3 button{
+    width: 159px;
+    height: 36px;
+    flex-shrink: 0;
+    width: 159px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #03F;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    border: none;
+}
+
+.box2{
+    padding: 32px 0 0;
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FFF;
+    width: 361px;
+    height: 453px;
+    flex-shrink: 0;
+    border-radius: 8px;
+}
+
+.title5{
+    color: #000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px; /* 125% */
+    letter-spacing: 0.3px;
+}
